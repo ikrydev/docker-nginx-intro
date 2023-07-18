@@ -29,10 +29,10 @@ You have a restriction to **NOT** modify the api service (we can assume this is 
 
 Required functionality:
 
-- [ ] Open the home page which has list of blog title
-- [ ] Open the post detail page
-- [ ] when open "/blog" it will serve the blog post page also
-- [ ] add trailing slash from all url
+- [x] Open the home page which has list of blog title
+- [x] Open the post detail page
+- [x] when open "/blog" it will serve the blog post page also
+- [x] add trailing slash from all url
 
 ## Stop the services
 
